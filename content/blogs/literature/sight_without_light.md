@@ -8,6 +8,8 @@ series:
     - "Darkness"
 tags : 
     - literature
+showReadingTime: true
+showWordCount: true
 ---
 
 <div style="text-align: justify;">

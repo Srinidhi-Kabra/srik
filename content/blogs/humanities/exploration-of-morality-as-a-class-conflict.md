@@ -7,6 +7,8 @@ category : ["Sociology"]
 tags:
     - sociology
     - psuedoscience
+showReadingTime: true
+showWordCount: true
 ---
 
 <div style="text-align: justify;">

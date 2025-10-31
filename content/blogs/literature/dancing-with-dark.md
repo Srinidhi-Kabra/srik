@@ -8,6 +8,8 @@ series:
 category : ["Literature"]
 tags:
     - literature
+showWordCount: true
+showReadingTime: true
 ---
 
 <div style="text-align: justify;">

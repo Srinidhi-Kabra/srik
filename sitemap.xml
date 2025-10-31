@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://srinidhi-kabra.github.io/blogs/</loc>
+    <loc>https://srinidhi-kabra.github.io/math/</loc>
     <lastmod>2025-10-31T16:49:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -15,7 +15,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://srinidhi-kabra.github.io/blogs/math-meaning/</loc>
+    <loc>https://srinidhi-kabra.github.io/math/math-meaning/</loc>
     <lastmod>2025-10-31T16:49:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -35,6 +35,12 @@
   <url>
     <loc>https://srinidhi-kabra.github.io/teaching/syllabus/</loc>
     <lastmod>2025-10-29T22:11:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://srinidhi-kabra.github.io/blogs/</loc>
+    <lastmod>2025-10-29T15:00:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

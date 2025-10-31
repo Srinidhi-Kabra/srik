@@ -1,0 +1,12 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "srinidhikabra"]
+	path = srinidhikabra
+	url = https://github.com/Srinidhi-Kabra/srinidhikabra.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/Srinidhi-Kabra/srik.github.io.git
+	branch = main

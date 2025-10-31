@@ -1,0 +1,13 @@
+# Hugo build output
+/public/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm themes or tooling)
+node_modules/
+
+# Temporary files
+*.log
+.cache/

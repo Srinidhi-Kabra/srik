@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <article class="max-w-4xl mx-auto px-4 py-8 text-justify">
+
+    {{ $enableToc := site.Params.article.showTableOfContents | default false }}
+    {{ $enableToc = .Params.showTableOfContents | default $enableToc }}
+    {{ $showToc := and $enableToc (in .TableOfContents "<ul") }}
+
+    {{ if $showToc }}
+      <nav class="mb-6 border-b border-gray-300 pb-4 dark:border-neutral-600">
+        {{ partial "toc.html" . }}
+      </nav>
+    {{ end }}
+
+    <header id="single_header" class="mb-8 max-w-prose mx-auto">
+      <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral-100">
+        {{ .Title | emojify }}
+      </h1>
+      <div class="mt-1 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
+      </div>
+    </header>
+
+    <section class="prose max-w-prose mx-auto dark:prose-invert">
+      {{ .Content }}
+    </section>
+
+    {{/* Other partials for series, sharing links, related articles, etc. follow here */}}
+  </article>
+{{ end }}

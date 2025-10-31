@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <header class="mb-5 text-center">
+        <h1 style="font-size: 1.5rem;" class="font-extrabold">Posts Tagged With "{{ .Title }}"</h1>
+    </header>
+
+    <hr class="border-gray-300 mb-5">
+
+    <ul>
+        {{ range .Pages }}
+        <li class="mb-10"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}

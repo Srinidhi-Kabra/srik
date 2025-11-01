@@ -6,5 +6,11 @@ tags :
 category :
 series:
 showWordCount: true
-showReadingTime = true
+showReadingTime: true
 ---
+
+<div style="text-align: justify;">
+
+
+
+</div>

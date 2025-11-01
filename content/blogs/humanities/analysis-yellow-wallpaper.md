@@ -7,4 +7,6 @@ category: ['Literature']
 tags: 
     - literature
     - feminism
+showReadingTime: true
+showWordCount: true
 ---

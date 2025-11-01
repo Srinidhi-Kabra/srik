@@ -8,7 +8,9 @@ category :
 series:
 showWordCount: true
 showReadingTime: true
+
 ---
+{{< katex >}}
 
 <div style="text-align: justify;">
 I started learning mathematics and physics rigorously, about 5 years ago. Before that, the two subjects always seemed quite distant. Mathematics felt like an abstract world with every problem posing a new puzzle for me to solve. At the same time I was enamoured by the beautiful explanations that physics had to offer about world around us. When I first learned mechanics, I was fascinated to see how these ideas developed in mathematics were indispensable tools when it came to describing the physical world. Soon after, I learned about calculus of variations and Hamiltonian mechanics. While Newtonian mechanics definitely provided a surprising application of the mathematics I had learned, Hamiltonian mechanics opened up an entire new world where incredibly abstract ideas, which at first seemed like had nothing to do with the real world, described it so elegantly. The interaction between these two subjects is what made learning them a memorable experience. While the fascination of physics was present, without the mathematics it wouldn't have felt nearly as beautiful. This experience prompted me to explore interactions between mathematics and other subjects when I started college two years ago. I had loved reading about evolutionary biology, when I realised that this field had much mathematics to offer, I was immediately attracted to it. 

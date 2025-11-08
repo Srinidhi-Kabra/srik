@@ -78,7 +78,7 @@ Collaborated with the student to design a learning path optimal for their goals 
 
 Currently connecting the concepts of Lie theory while learning basics of differential geometry to pave a rigorous path towards quantum groups. 
 
-- **Analysis \& Topology** : \( \mathbb{R} \) number field, metric spaces, compactness, connectedness, basic topology; continuity \& differentiability in \( \mathbb{R}^n \), Riemman integration; sequences and series of functions, Inverse function theorem, impicit function theorem; integration of differential forms \* 
+- **Analysis \& Topology** : \( \mathbb{R} \) number field, metric spaces, compactness, connectedness, basic topology; continuity \& differentiability in \( \mathbb{R}^n \), Riemann integration; sequences and series of functions, Inverse function theorem, implicit function theorem; integration of differential forms \* 
 - **Calculus** : Partial derivatives, Lagrange multipliers, line integrals, surface integrals, volume integrals, Stokes’ theorem, Green’s theorem, first and second order linear differential equations
 
 My other exposure to mathematics includes,
@@ -90,7 +90,7 @@ My other exposure to mathematics includes,
 
 I am primarily interested in approaching physics from mathematical viewpoint, as such I have listed topics I have studied rigorously from a mathematical lens. 
 
-- **Elementary Physics** : Newtonian mechanics, Lagrangian and Hamiltonian mechanics, calculus of variations, basic electromagnetism, Maxwell's equations, electromagnetic waves, waves and optics, intereference and diffraction, Fourier transform.
+- **Elementary Physics** : Newtonian mechanics, Lagrangian and Hamiltonian mechanics, calculus of variations, basic electromagnetism, Maxwell's equations, electromagnetic waves, waves and optics, interference and diffraction, Fourier transform.
 - **Quantum \& Particle Physics** : Foundational experiments, Compton effect, Schrodinger equation, Hydrogen atom, Lorentz group and its representations. Currently studying particle physics from 'Symmetries and Group Theory in Particle Physics' by Costa, Fogli \*.
 
 

@@ -44,6 +44,13 @@ Basic biology of yeast growth on sucrose, glucose and melibiose as well as vario
 
 ---
 
+## Informal Talks / Presentations 
+- Quantum Groups and Construction of Noncommutative Spacetimes, IISER Mohali, India (6th Nov, 2025)
+
+- An Informal Introduction to Quantum Groups, IISER Mohali, India (17 Aug, 2025) (Online) [(YouTube Link)](https://www.youtube.com/watch?v=QXMObnIo51Y)
+
+---
+
 ## Teaching Experience
 
 **Self-Initiative in Math \& Physics Teaching (Feb 2025 to Present)** \
@@ -59,37 +66,34 @@ Collaborated with the student to design a learning path optimal for their goals 
 
 ---
 
-## Indepedent Reading Projects 
-<span style="color:rgb(100, 140, 150);">Textbooks marked with \* indicate that it is still in progress.</span> 
+## Self-Motivated Readings 
+<span style="color:rgb(100, 140, 150);">Topics marked with \* indicate that it is still in progress.</span> 
 
-**Particle Physics**
-- Lie Algebras in Particle Physics by Howard Georgi \*
-- Symmetries and Group Theory in Particle Physics by Costa, Fogli \*
+- **Linear Algebra** : Vector spaces, algebras, determinants, tensor algebra, exterior algebra \*, eigenvalues and eigenvectors, rational and Jordan forms, inner product spaces, operators on inner product spaces, bilinear forms, unitary spaces. 
+- **Group Theory** : Quotient groups, isomorphism theorems, Sylow theorems, counting principles, direct products, Burnside's theorem. 
+- **Ring \& Module Theory** : Elementary definitions, ideals, quotient rings, Euclidean rings, factorisation domains; elementary concepts of modules, Artinian modules, modules with chain conditions \*, Wedderburn structure theorem. 
+- **Representation Theory** : Elementary definitions,  representation theory of finite groups (Maschke's theorem, characters, orthogonality relations, unitary representations, Frobenius reciprocity), definition of quivers \*, filtrations, Jordan-Holder theorem, Krull-Schmidt theorem, Schur-Weyl duality \*.
+- **Lie Theory \*** : Matrix groups, topology of matrix groups, Lie groups, Lie algebras, maximal tori \*, Killing form and Casimir \*, basics of representations. 
 
-**Analysis and Topology**
-- Principles of Mathematical Analysis by Rudin
-- Topology by Munkres \*
-- Topology of Metric Spaces by Kumaresan
 
-**Algebra \& Representation Theory**
-- Representation Theory of Finite Groups by Steinberg
-- Introduction to Representation Theory by Etingof \*
-- Algebra by Artin
-- Linear Algebra by Hoffman, Kunze
-- Multilinear Algebra by Werner Greub \*
+
+- **Analysis \& Topology** : \( \mathbb{R} \) number field, metric spaces, compactness, connectedness, basic topology; continuity \& differentiability in \( \mathbb{R}^n \), Riemman integration; sequences and series of functions, Inverse function theorem, impicit function theorem; integration of differential forms \* 
+- **Calculus** : Partial derivatives, Lagrange multipliers, line integrals, surface integrals, volume integrals, Stokes’ theorem, Green’s theorem, first and second order linear differential equations
+
+- **Combinatorics** : Basic principles of enumerative combinatorics, generating functions, counting techniques, recurrence relations. 
+- **Number Theory** : Fermat's theorem, arithmetic functions, Mobius inversion, quadratic reciprocity. 
+- **Probability** : Basic definitions, probability distributions, limit theorems, law of large numbers. 
+- **Set theory and Logic** : Propositional logic, first order logic, axioms of set theory. 
+
+
+- **Elementary Physics** : Newtonian mechanics, Lagrangian and Hamiltonian mechanics, calculus of variations, basic electromagnetism, Maxwell's equations, electromagnetic waves, waves and optics, intereference and diffraction, Fourier transform.
+- **Quantum \& Particle Physics** : Foundational experiments, Compton effect, Schrodinger equation, Hydrogen atom, Lorentz group and its representations. Currently studying particle physics from 'Symmetries and Group Theory in Particle Physics' by Costa, Fogli \*.
 
 ---
 
 ## Certifications and Awards
 - Cleared Indian Olympiad Qualifier in Mathematics (2021)
 - Received a Gold Medal in the Homi Bhabha Young Scientist Competition held for high school students (2019)
-
----
-
-## Informal Talks / Presentations 
-- Quantum Groups and Construction of Noncommutative Spacetimes, IISER Mohali, India (6th Nov, 2025)
-
-- An Informal Introduction to Quantum Groups, IISER Mohali, India (17 Aug, 2025) (Online) [(YouTube Link)](https://www.youtube.com/watch?v=QXMObnIo51Y)
 
 ---
 

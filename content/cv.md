@@ -87,7 +87,8 @@ Collaborated with the student to design a learning path optimal for their goals 
 ---
 
 ## Informal Talks / Presentations 
-- Quantum Groups and Construction of Noncommutative Spacetimes, IISER Mohali, India (Scheduled for 1st Nov, 2025)
+- Quantum Groups and Construction of Noncommutative Spacetimes, IISER Mohali, India (6th Nov, 2025)
+
 - An Informal Introduction to Quantum Groups, IISER Mohali, India (17 Aug, 2025) (Online) [(YouTube Link)](https://www.youtube.com/watch?v=QXMObnIo51Y)
 
 ---

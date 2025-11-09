@@ -56,8 +56,7 @@ Basic biology of yeast growth on sucrose, glucose and melibiose as well as vario
 **Self-Initiative in Math \& Physics Teaching (Feb 2025 to Present)** \
 <span style="color:rgb(100, 140, 150);"> Detailed information can be found in the [teaching section]({{< ref "/teaching/_index" >}}) of the website.</span> \
 Initiated a tutoring program to replace rote learning in the current high school education structure with systematic, detailed study of mathematics and physics for
-interested and motivated students. Developed a syllabus to ensure conceptual understanding of mathematics and physics in a unified manner. Implemented novel teaching techniques, prioritizing development of mathematical intuition. An increase in students’ mathematical maturity and problem solving skills was observed. Designed assignment sheets to complement lectures, facilitating the learning processes and identifying the weaknesses of the students. They were used to identify
-the weaknesses of the students. Assignments also encouraged creative thinking
+interested and motivated students. Developed a syllabus to ensure conceptual understanding of mathematics and physics in a unified manner. Implemented novel teaching techniques, prioritizing development of mathematical intuition. An increase in students’ mathematical maturity and problem solving skills was observed. Designed assignment sheets to complement lectures thus facilitating the learning processes. They were used to identify the weaknesses of the students. Assignments also encouraged creative thinking
 and out-of-the-box approaches to problem solving.
 
 

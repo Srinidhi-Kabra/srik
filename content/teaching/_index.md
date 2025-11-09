@@ -14,7 +14,10 @@ The goal with my teaching program was to find like minded students who are inter
 
 On this page you can find my most recent teaching activity with detailed syllabus, my reccomended resources and assigments I have designed. 
 
+---
 
 </div>
----
+
+
+
 

@@ -8,5 +8,3 @@ Here's where you can find my thoughts that I choose to put in words, or equation
 **Soon to come** : I am working on a series on *experimental foundations of the theory of electrostatics*! Stay tuned to read more about it! 
 
 ---
-
-While I am undoubtedly devoted to mathematics and physics, 

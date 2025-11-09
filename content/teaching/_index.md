@@ -4,6 +4,8 @@ layout : "teaching/list"
 description : ""
 ---
 
+<div style="text-align: justify;">
+
 Since a young age, I have been immersed into mathematics and physics. I am a particularly expressive person, as such, sharing the joy I found in these subjects was simply a part of self expression for me. I have been keen about explaining concepts since a young age; teaching juniors, peers and at times even seniors. 
 
 I have always been frustrated with the education system I was raised in. The emphasis was always on rote learning and obtaining marks, but never on understanding and appreciating the subject. This rat-race not only sucks the joy out of learning, but worse yet, it misrepresents STEM subjects as being highly technical, devoid of any beauty and allure. I wanted to make a change in this in any capacity I could, as such, I decided to start teaching, afterall, exposition has always been like a second langauge to me.
@@ -12,5 +14,7 @@ The goal with my teaching program was to find like minded students who are inter
 
 On this page you can find my most recent teaching activity with detailed syllabus, my reccomended resources and assigments I have designed. 
 
+
+</div>
 ---
 

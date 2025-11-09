@@ -112,8 +112,7 @@ notes for expository purposes. \
 **Literary Skills** : Proficient in creative writing and literary exposition. Some examples can be found on my [blog]({{< ref "/blogs/_index" >}}) \
 **Languages** : Marathi (Native fluency), English (Near-native fluency), Hindi (Mediocre
 proficiency) \
-**Leadership Skills** : Have two years of experience in bringing people together over
-common interests/cause. Helped build the first pan-India community as a support
+**Leadership \& Community Outreach** : Have two years of experience in bringing people together over common interests/cause. Helped build the first pan-India community as a support
 to LGBTQIA+ individuals in Indian academia. Served as a representative of IISER
 Mohali’s LGBTQIA+ Collective. Currently a reddit moderator for r/iiser the goal of
 which is to spread awareness about IISERs and research themed institutes in a
